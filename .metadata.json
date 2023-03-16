@@ -1,0 +1,10 @@
+[
+  {
+    "package": "colorr",
+    "oncran": true
+  },
+  {
+    "package": "plotrr",
+    "oncran": true
+  }
+]
